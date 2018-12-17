@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 1cd3b0524fdcfb648b7a457c47df015b
+timeCreated: 1510656335
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bulb:bottomceramic_default4
+    100002: bulb:bulb_default8
+    100004: bulb:contact_default3
+    100006: bulb:fuse_default2
+    100008: bulb:fuseholder_default
+    100010: bulb:insideceramic_default7
+    100012: bulb:insidestem_default
+    100014: bulb:screwcap_default9
+    100016: bulb:stem_default
+    100018: bulb:wires_default5
+    100020: //RootNode
+    400000: bulb:bottomceramic_default4
+    400002: bulb:bulb_default8
+    400004: bulb:contact_default3
+    400006: bulb:fuse_default2
+    400008: bulb:fuseholder_default
+    400010: bulb:insideceramic_default7
+    400012: bulb:insidestem_default
+    400014: bulb:screwcap_default9
+    400016: bulb:stem_default
+    400018: bulb:wires_default5
+    400020: //RootNode
+    2300000: bulb:bottomceramic_default4
+    2300002: bulb:bulb_default8
+    2300004: bulb:contact_default3
+    2300006: bulb:fuse_default2
+    2300008: bulb:fuseholder_default
+    2300010: bulb:insideceramic_default7
+    2300012: bulb:insidestem_default
+    2300014: bulb:screwcap_default9
+    2300016: bulb:stem_default
+    2300018: bulb:wires_default5
+    3300000: bulb:bottomceramic_default4
+    3300002: bulb:bulb_default8
+    3300004: bulb:contact_default3
+    3300006: bulb:fuse_default2
+    3300008: bulb:fuseholder_default
+    3300010: bulb:insideceramic_default7
+    3300012: bulb:insidestem_default
+    3300014: bulb:screwcap_default9
+    3300016: bulb:stem_default
+    3300018: bulb:wires_default5
+    4300000: bulb:fuseholder_default
+    4300002: bulb:screwcap_default9
+    4300004: bulb:bulb_default8
+    4300006: bulb:insideceramic_default7
+    4300008: bulb:wires_default5
+    4300010: bulb:bottomceramic_default4
+    4300012: bulb:contact_default3
+    4300014: bulb:fuse_default2
+    4300016: bulb:insidestem_default
+    4300018: bulb:stem_default
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: c27b35ca2764ff64e82c2bb3a1fad994, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
